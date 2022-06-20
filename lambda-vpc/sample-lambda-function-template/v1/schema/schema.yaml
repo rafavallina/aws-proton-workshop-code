@@ -10,7 +10,7 @@ schema:
       properties:
         function_name:
           type: string
-          description: "The name for the function."
+          description: "The name for the function"
           minLength: 1
           maxLength: 50
         handler:
